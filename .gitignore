@@ -1,0 +1,17 @@
+# KiCad local preferences, locks, and automatic backups
+*.kicad_prl
+*.lck
+~*
+*-backups/
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+.history/
+fp-info-cache
+
+# Generated manufacturing outputs
+jlcpcb/
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
